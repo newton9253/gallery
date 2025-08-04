@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "copyright text",
+  "footer": "Newton1911",
   "usage-stats": false
 }
